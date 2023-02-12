@@ -1,0 +1,60 @@
+body
+{
+    background-color: rgb(15, 15, 56);
+}
+#all_images
+{
+    padding: 4%;
+    padding-top:5%;
+}
+.drumset:hover
+{
+    border:6px solid rgb(76, 228, 56)
+}
+.drumset
+{
+    margin-left: 3%;
+    border-radius: 6%;
+    width:  150px;
+    height: 150px;
+    font-size: 3.3rem;
+    font-weight: bolder;
+    color: rgb(21, 221, 21);
+    text-shadow: 5px 0 black;
+}
+.w
+{
+    background-image: url('images/crash.png');
+}
+.a
+{
+    background-image: url('images/tom1.png');
+}
+.s
+{
+    background-image: url('images/snare.png');
+
+}
+.d
+{
+    background-image: url('images/tom2.png');
+}
+.i
+{
+    background-image: url('images/kick.png');
+}
+.j
+{
+  background-image: url('images/ride.jpg');
+}
+.k
+{
+background-image: url('images/tom3.png');
+}
+#head
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 5%;
+    font-size: 1.5rem;
+    color: rgb(73, 252, 3);
+}
